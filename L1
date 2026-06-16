@@ -1,0 +1,124 @@
+Topic: Linux
+
+* Current path/directory
+* hard link vs soft link
+* Relative and absolute path
+* Grep/egrep- when to use
+* Use of pipe
+* how to combine two commands
+* use of shred command
+* cron job
+* meaning of \*\*\*\*\*
+* use of systemctl
+* how to terminate a running process- command ?
+* use of netstat
+* how to check open port
+* difference between telnet and SSH
+* what is SSH
+* what is rsync ?
+
+Topic: Git(entire git questions)
+
+* Reset- Hard vs soft
+* Rebase
+* Git clone vs fork
+* git stash
+* how to resolve git conflict
+* gitignore
+* branching strategies
+* cherry pick
+* hotfix
+
+Topic: Kubernetes
+
+* what is Kubernetes
+* Kubernetes cluster- entire components both master and worker
+* namespaces
+* services
+* types of services
+* deployments
+* stateful sets
+
+Topic: Helm
+
+* what is helm
+* components of helm
+* helm chart
+* what is helm release
+* what are there in values.yaml
+
+Topic: Security tools:
+
+* SAST- Along with the tools used
+* DAST
+* all the security tools- answered 4 of them
+* which tools are used in CI/CD
+* how  to integrate SonarQube- steps in CI/CD
+* basically the interviewer wanted  to know  if  i had any practical knowledge
+
+Topic: Ansible
+
+* What is ansible
+* its basic components
+* what are modules
+* example of a module- like nginx
+* how ansible works
+
+Topic: CI/CD
+
+* what is CI and CD
+* difference between continues delivery and deployment
+* describe the flow of CI/CD- from pushing codes to git repository to deployment
+* how are Jenkins related to CI/CD
+* what methodology is used in Jenkinsfile- Declarative
+
+Topic: Docker
+
+* what is image and container
+* what is docker
+* what are there in docker-compose.yaml file
+* what is networking in docker
+* default network types
+* docker hub and registry
+
+Topic: Kafka
+
+* explain the architecture- producers , brokers , consumers, topics everything
+
+Topic: Argo CD
+
+* what is ARgo CD
+* its architecture
+
+Topic: ELK stack
+
+* what is ELK and why it is used
+* ELK stack architecture
+* what are filters used
+* what is ILM
+* Hot phase
+
+Topic: AWS
+
+* what is VPC and its components
+* S3-where it is integrated
+* route 53-policies
+* lamda
+* AWS shield
+* AWS WAF
+* Dynamo DB
+* codebuild
+
+Topic: Terraform
+
+* What is terraform
+* modules
+* state lock and how  to resolve it
+* terraform commands- from terraform init to terraform validate
+* what is terraform state and where it is stored remotely(S3 and DynamoDB)
+
+Topic: SRE
+
+* SLO,SLA, SLI
+* Error budget
+* Cold and hard freeze
