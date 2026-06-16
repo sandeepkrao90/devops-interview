@@ -1,3 +1,5 @@
+
+Prabhat
 Topic: Linux
 
 * Current path/directory
@@ -122,3 +124,39 @@ Topic: SRE
 * SLO,SLA, SLI
 * Error budget
 * Cold and hard freeze
+
+--------------------------
+Fahad Syed: 
+
+why is wget command used?
+what is the role of systemctl?
+what is cvss?
+what are types of policies?
+what are types of logs?
+what are security tools 
+components of Kubernetes infra 
+how to release terraform statelock, give the command used. 
+command to run a script inside a container?
+types of records in Route53 
+cold freeze vs hard freeze 
+what is SLO SLA and SLI 
+what are the components inside helm
+what does a SRE does?
+cmd vs Entrypoint
+diff between image & container 
+diff between NACL and SG
+ELK stack 
+what are the components of ARGO CD 
+what are Namespaces?
+what are adhock commands in Ansible?
+
+-----
+Ayush
+
+What is state file
+What state.lock file
+What is Kafka
+What is Kubernetes and its architecture 
+What is s3 full form
+What is elk and why it is used
+And aur bhi the abhi yaad nahi aara hai
